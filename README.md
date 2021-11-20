@@ -22,7 +22,7 @@ You can find me on:
 
 😄 Pronouns: Name
 
-⚡ Fun fact: I am also a registered nurse. And I have experiences in telehealth, primary health and sexual assult forensic nursing. 
+⚡ Fun fact: I am also a registered nurse with experience working with diverse populations in telehealth, primary health and sexual assult forensic nursing. 
 <!--
 **chingha/chingha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
