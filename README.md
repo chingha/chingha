@@ -1,4 +1,4 @@
-### Hi there 👋 I'm @chingha (ChingHa Lee) 👋
+### Hi there 👋 I'm [@chingha](https://github.com/chingha) (ChingHa Lee) 👋
 
 I'm a Full-stack developer student at Mission Ready HQ 
 
@@ -15,8 +15,10 @@ I like to build things with Deep Learning/Machine Learning, SQL databases, React
 If you would like to have my help with your team and product, feel free to contact me. 🤓
 
 You can find me on:
-*[GitHub as @chingha (you are here)] (https://github.com/chingha)
-*[LinkedIn] (https://www.linkedin.com/in/chinghalee/)
+* [GitHub as @chingha (you are here)](https://github.com/chingha)
+* [LinkedIn](https://linkedin.com/in/chinghalee)
+
+
 
 😄 Pronouns: Name
 
