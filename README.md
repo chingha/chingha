@@ -8,7 +8,7 @@ I currently live in Wellington, New Zealand
 
 🌱 I’m currently learning DevOps and navigating my way in the cloud.
 
-I like to build things with Deep Learning/Machine Learning, SQL databases, React, JavaScript and modern frontend frameworks. 🤖
+I like to build things with Deep Learning/Machine Learning, databases, React, JavaScript and modern frontend frameworks. 🤖
 
 <!-- 🤔 I’m looking for help with EVERYTHING!   -->
 
