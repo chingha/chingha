@@ -6,18 +6,19 @@ I currently live in Wellington, New Zealand
 
 🔭 I’m currently working with a group of Ux designers building an application for a motor vehicle insurance company using React. 
 
-🌱 I’m currently learning DevOps and navigating my way in the cloud.
+🔭 I’m currently obsessed with Docker and navigating my way in Google Cloud.
+
+🌱 I’m currently learning SalesForce ecosystem. 
 
 I like to build things with Deep Learning/Machine Learning, databases, React, JavaScript and modern frontend frameworks. 🤖
 
-<!-- 🤔 I’m looking for help with EVERYTHING!   -->
+🤔 I’m looking for work that allow me to create, learn and problem solve.✨
 
 If you would like to have my help with your team and product, feel free to contact me. 🤓
 
 You can find me on:
 * [GitHub as @chingha (you are here)](https://github.com/chingha)
 * [LinkedIn](https://linkedin.com/in/chinghalee)
-
 
 
 😄 Pronouns: Name
